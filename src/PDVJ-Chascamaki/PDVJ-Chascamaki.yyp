@@ -13,6 +13,7 @@
     {"id":{"name":"sprTextBox","path":"sprites/sprTextBox/sprTextBox.yy",},"order":3,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":1,},
     {"id":{"name":"parInteractive","path":"objects/parInteractive/parInteractive.yy",},"order":6,},
+    {"id":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},"order":4,},
     {"id":{"name":"sprNPC","path":"sprites/sprNPC/sprNPC.yy",},"order":4,},
     {"id":{"name":"sprPlayer","path":"sprites/sprPlayer/sprPlayer.yy",},"order":1,},
     {"id":{"name":"sprDoor","path":"sprites/sprDoor/sprDoor.yy",},"order":2,},
@@ -37,6 +38,7 @@
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
     {"roomId":{"name":"rmTest1","path":"rooms/rmTest1/rmTest1.yy",},},
     {"roomId":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},},
+    {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
