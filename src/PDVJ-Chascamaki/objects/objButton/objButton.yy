@@ -1,11 +1,11 @@
 {
-  "spriteId": null,
-  "solid": false,
-  "visible": true,
-  "spriteMaskId": {
+  "spriteId": {
     "name": "sprButton",
     "path": "sprites/sprButton/sprButton.yy",
   },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,

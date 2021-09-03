@@ -1,3 +1,4 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-image = in; 
+image_index = in; 
+objIconsMenu.image_index=0; 
