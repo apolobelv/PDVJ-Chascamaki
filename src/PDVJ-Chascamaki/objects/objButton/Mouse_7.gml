@@ -12,7 +12,6 @@ if (text= "AJUSTES"){
 	room_goto(rmScreenSettings); 
 }
 
-
 if (text = "CREDITOS"){
 	room_goto(rmScreenCredits); 
 }
