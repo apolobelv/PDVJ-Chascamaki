@@ -1,7 +1,7 @@
 {
   "spriteId": null,
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -17,9 +17,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":1,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -27,7 +25,7 @@
     "path": "folders/Objects/ObjInterface.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objScreenControl",
+  "name": "objIconsMenu",
   "tags": [],
   "resourceType": "GMObject",
 }
