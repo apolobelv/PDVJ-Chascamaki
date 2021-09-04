@@ -1,7 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"sprRosa","path":"sprites/sprRosa/sprRosa.yy",},"order":5,},
     {"id":{"name":"tsTest","path":"tilesets/tsTest/tsTest.yy",},"order":0,},
     {"id":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"order":11,},
+    {"id":{"name":"objMap","path":"objects/objMap/objMap.yy",},"order":12,},
+    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},"order":5,},
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"objInteractive","path":"objects/objInteractive/objInteractive.yy",},"order":9,},
     {"id":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"order":5,},
@@ -14,6 +17,7 @@
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":1,},
     {"id":{"name":"parInteractive","path":"objects/parInteractive/parInteractive.yy",},"order":6,},
     {"id":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},"order":4,},
+    {"id":{"name":"sprMapa","path":"sprites/sprMapa/sprMapa.yy",},"order":6,},
     {"id":{"name":"sprNPC","path":"sprites/sprNPC/sprNPC.yy",},"order":4,},
     {"id":{"name":"sprPlayer","path":"sprites/sprPlayer/sprPlayer.yy",},"order":1,},
     {"id":{"name":"sprDoor","path":"sprites/sprDoor/sprDoor.yy",},"order":2,},
@@ -35,6 +39,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
     {"roomId":{"name":"rmTest1","path":"rooms/rmTest1/rmTest1.yy",},},
     {"roomId":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},},
