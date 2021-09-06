@@ -1,0 +1,2 @@
+text = "FACULTA DE INGENIERIA Y CIENCIAS APLICADAS";
+numtext = 0 ; 

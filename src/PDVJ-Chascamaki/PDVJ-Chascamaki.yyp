@@ -9,6 +9,7 @@
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"objInteractive","path":"objects/objInteractive/objInteractive.yy",},"order":9,},
     {"id":{"name":"sprScreenCredits","path":"sprites/sprScreenCredits/sprScreenCredits.yy",},"order":3,},
+    {"id":{"name":"fntCredits","path":"fonts/fntCredits/fntCredits.yy",},"order":4,},
     {"id":{"name":"objIconSave","path":"objects/objIconSave/objIconSave.yy",},"order":4,},
     {"id":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"order":5,},
     {"id":{"name":"sprSreenText","path":"sprites/sprSreenText/sprSreenText.yy",},"order":8,},
@@ -63,8 +64,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rmScreenCredits","path":"rooms/rmScreenCredits/rmScreenCredits.yy",},},
     {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
+    {"roomId":{"name":"rmScreenCredits","path":"rooms/rmScreenCredits/rmScreenCredits.yy",},},
     {"roomId":{"name":"rmScreenMenu","path":"rooms/rmScreenMenu/rmScreenMenu.yy",},},
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
     {"roomId":{"name":"rmTest1","path":"rooms/rmTest1/rmTest1.yy",},},
