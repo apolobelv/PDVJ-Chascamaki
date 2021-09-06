@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Set1",
-    "path": "sprites/Set1/Set1.yy",
+    "name": "imgSetObj1",
+    "path": "sprites/imgSetObj1/imgSetObj1.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SetPisos",
-    "path": "sprites/SetPisos/SetPisos.yy",
+    "name": "SetPisosimg",
+    "path": "sprites/SetPisosimg/SetPisosimg.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
@@ -292,7 +292,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "tlSetPisos1",
+  "name": "tlSetPisos",
   "tags": [],
   "resourceType": "GMTileSet",
 }

@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 17,
-  "bbox_right": 271,
-  "bbox_top": 1,
-  "bbox_bottom": 207,
+  "bbox_left": 16,
+  "bbox_right": 159,
+  "bbox_top": 16,
+  "bbox_bottom": 111,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 512,
-  "height": 512,
+  "width": 256,
+  "height": 256,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0e023917-b5e7-449a-9a84-cfa582bda22c","path":"sprites/Set1/Set1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0e023917-b5e7-449a-9a84-cfa582bda22c","path":"sprites/Set1/Set1.yy",},"LayerId":{"name":"78514b17-2f9e-48d6-8ddc-8a3b9cb46f42","path":"sprites/Set1/Set1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Set1","path":"sprites/Set1/Set1.yy",},"resourceVersion":"1.0","name":"0e023917-b5e7-449a-9a84-cfa582bda22c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"23a1ea32-1b39-453a-b964-0f0f067984a8","path":"sprites/SetPisosimg/SetPisosimg.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"23a1ea32-1b39-453a-b964-0f0f067984a8","path":"sprites/SetPisosimg/SetPisosimg.yy",},"LayerId":{"name":"105aad83-4906-4848-a91f-4ed4e0d4cc78","path":"sprites/SetPisosimg/SetPisosimg.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"SetPisosimg","path":"sprites/SetPisosimg/SetPisosimg.yy",},"resourceVersion":"1.0","name":"23a1ea32-1b39-453a-b964-0f0f067984a8","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Set1","path":"sprites/Set1/Set1.yy",},
+    "spriteId": {"name":"SetPisosimg","path":"sprites/SetPisosimg/SetPisosimg.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6f9dad3f-a533-470a-997a-fa43388f9f8f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0e023917-b5e7-449a-9a84-cfa582bda22c","path":"sprites/Set1/Set1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4247bcb4-1089-45a0-b0dd-b13b15cf98fc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"23a1ea32-1b39-453a-b964-0f0f067984a8","path":"sprites/SetPisosimg/SetPisosimg.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Set1","path":"sprites/Set1/Set1.yy",},
+    "parent": {"name":"SetPisosimg","path":"sprites/SetPisosimg/SetPisosimg.yy",},
     "resourceVersion": "1.3",
-    "name": "Set1",
+    "name": "SetPisosimg",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"78514b17-2f9e-48d6-8ddc-8a3b9cb46f42","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"105aad83-4906-4848-a91f-4ed4e0d4cc78","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Set1",
+  "name": "SetPisosimg",
   "tags": [],
   "resourceType": "GMSprite",
 }
