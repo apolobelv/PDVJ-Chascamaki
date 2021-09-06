@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprRosa",
-    "path": "sprites/sprRosa/sprRosa.yy",
+    "name": "",
+    "path": "",
   },
   "solid": false,
   "visible": true,
