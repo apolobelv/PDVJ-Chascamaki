@@ -4,7 +4,6 @@
     {"id":{"name":"obScreenCredits","path":"objects/obScreenCredits/obScreenCredits.yy",},"order":5,},
     {"id":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"order":11,},
     {"id":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},"order":6,},
-    {"id":{"name":"sptScreenCredits","path":"sprites/sptScreenCredits/sptScreenCredits.yy",},"order":7,},
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"objInteractive","path":"objects/objInteractive/objInteractive.yy",},"order":9,},
     {"id":{"name":"sprScreenCredits","path":"sprites/sprScreenCredits/sprScreenCredits.yy",},"order":3,},

@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "sptScreenCredits",
-    "path": "sprites/sptScreenCredits/sptScreenCredits.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
