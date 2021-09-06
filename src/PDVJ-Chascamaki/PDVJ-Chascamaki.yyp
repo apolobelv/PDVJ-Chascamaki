@@ -17,10 +17,6 @@
     {"id":{"name":"fntFont1","path":"fonts/fntFont1/fntFont1.yy",},"order":0,},
     {"id":{"name":"sprIconsMenu","path":"sprites/sprIconsMenu/sprIconsMenu.yy",},"order":5,},
     {"id":{"name":"rmScreenMenu","path":"rooms/rmScreenMenu/rmScreenMenu.yy",},"order":8,},
-<<<<<<< Updated upstream
-=======
-    {"id":{"name":"sprAnimationsCred","path":"sprites/sprAnimationsCred/sprAnimationsCred.yy",},"order":7,},
->>>>>>> Stashed changes
     {"id":{"name":"sprScreenAventure","path":"sprites/sprScreenAventure/sprScreenAventure.yy",},"order":2,},
     {"id":{"name":"sprScreenHome","path":"sprites/sprScreenHome/sprScreenHome.yy",},"order":0,},
     {"id":{"name":"objButton","path":"objects/objButton/objButton.yy",},"order":1,},
@@ -31,7 +27,6 @@
     {"id":{"name":"sprTextBox","path":"sprites/sprTextBox/sprTextBox.yy",},"order":3,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":1,},
     {"id":{"name":"sprScreenMenu","path":"sprites/sprScreenMenu/sprScreenMenu.yy",},"order":4,},
-    {"id":{"name":"sprTextScreens","path":"sprites/sprTextScreens/sprTextScreens.yy",},"order":8,},
     {"id":{"name":"parInteractive","path":"objects/parInteractive/parInteractive.yy",},"order":6,},
     {"id":{"name":"rmScreenAventure","path":"rooms/rmScreenAventure/rmScreenAventure.yy",},"order":5,},
     {"id":{"name":"sprScreenSettings","path":"sprites/sprScreenSettings/sprScreenSettings.yy",},"order":1,},

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprAnimationsCred",
-    "path": "sprites/sprAnimationsCred/sprAnimationsCred.yy",
+    "name": "sprSelloUce",
+    "path": "sprites/sprSelloUce/sprSelloUce.yy",
   },
   "solid": false,
   "visible": true,
