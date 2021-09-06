@@ -13,6 +13,12 @@
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
   ],
   "layers": [
+<<<<<<< Updated upstream
+=======
+    {"assets":[
+        {"spriteId":{"name":"sprAnimationsCred","path":"sprites/sprAnimationsCred/sprAnimationsCred.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.419936061,"scaleY":0.4199361,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":208.0,"y":302.0,"resourceVersion":"1.0","name":"graphic_487C3B18","tags":[],"resourceType":"GMRSpriteGraphic",},
+      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
+>>>>>>> Stashed changes
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"objButton","path":"objects/objButton/objButton.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.846153855,"scaleY":0.887324,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":608.0,"resourceVersion":"1.0","name":"inst_7E3D3285","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obScreenCredits","path":"objects/obScreenCredits/obScreenCredits.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.42609486,"scaleY":0.4260949,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":320.0,"resourceVersion":"1.0","name":"inst_7DA4F146","tags":[],"resourceType":"GMRInstance",},
