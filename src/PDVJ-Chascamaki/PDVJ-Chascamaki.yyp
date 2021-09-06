@@ -1,10 +1,8 @@
 {
   "resources": [
     {"id":{"name":"tsTest","path":"tilesets/tsTest/tsTest.yy",},"order":0,},
-    {"id":{"name":"obScreenCredits","path":"objects/obScreenCredits/obScreenCredits.yy",},"order":5,},
     {"id":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"order":11,},
     {"id":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},"order":6,},
-    {"id":{"name":"sptScreenCredits","path":"sprites/sptScreenCredits/sptScreenCredits.yy",},"order":7,},
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"objInteractive","path":"objects/objInteractive/objInteractive.yy",},"order":9,},
     {"id":{"name":"sprScreenCredits","path":"sprites/sprScreenCredits/sprScreenCredits.yy",},"order":3,},
@@ -26,6 +24,7 @@
     {"id":{"name":"fntSubtitles","path":"fonts/fntSubtitles/fntSubtitles.yy",},"order":2,},
     {"id":{"name":"objTextBox","path":"objects/objTextBox/objTextBox.yy",},"order":7,},
     {"id":{"name":"sprTextBox","path":"sprites/sprTextBox/sprTextBox.yy",},"order":3,},
+    {"id":{"name":"sprRosa","path":"sprites/sprRosa/sprRosa.yy",},"order":7,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":1,},
     {"id":{"name":"sprScreenMenu","path":"sprites/sprScreenMenu/sprScreenMenu.yy",},"order":4,},
     {"id":{"name":"parInteractive","path":"objects/parInteractive/parInteractive.yy",},"order":6,},
@@ -57,7 +56,6 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rmScreenCredits","path":"rooms/rmScreenCredits/rmScreenCredits.yy",},},
     {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
     {"roomId":{"name":"rmScreenMenu","path":"rooms/rmScreenMenu/rmScreenMenu.yy",},},
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
@@ -65,6 +63,7 @@
     {"roomId":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},},
     {"roomId":{"name":"rmScreenAventure","path":"rooms/rmScreenAventure/rmScreenAventure.yy",},},
     {"roomId":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},},
+    {"roomId":{"name":"rmScreenCredits","path":"rooms/rmScreenCredits/rmScreenCredits.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
