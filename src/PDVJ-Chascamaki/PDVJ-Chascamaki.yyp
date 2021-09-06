@@ -2,7 +2,9 @@
   "resources": [
     {"id":{"name":"tsTest","path":"tilesets/tsTest/tsTest.yy",},"order":0,},
     {"id":{"name":"obScreenCredits","path":"objects/obScreenCredits/obScreenCredits.yy",},"order":5,},
+    {"id":{"name":"tlSetPisos1","path":"tilesets/tlSetPisos1/tlSetPisos1.yy",},"order":4,},
     {"id":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"order":11,},
+    {"id":{"name":"SetPisos","path":"sprites/SetPisos/SetPisos.yy",},"order":3,},
     {"id":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},"order":6,},
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"objInteractive","path":"objects/objInteractive/objInteractive.yy",},"order":9,},
@@ -23,6 +25,7 @@
     {"id":{"name":"objButton","path":"objects/objButton/objButton.yy",},"order":1,},
     {"id":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"order":8,},
     {"id":{"name":"sprTilesTest","path":"sprites/sprTilesTest/sprTilesTest.yy",},"order":0,},
+    {"id":{"name":"Set1","path":"sprites/Set1/Set1.yy",},"order":2,},
     {"id":{"name":"fntSubtitles","path":"fonts/fntSubtitles/fntSubtitles.yy",},"order":2,},
     {"id":{"name":"objTextBox","path":"objects/objTextBox/objTextBox.yy",},"order":7,},
     {"id":{"name":"sprTextBox","path":"sprites/sprTextBox/sprTextBox.yy",},"order":3,},
@@ -43,6 +46,7 @@
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":0,},
     {"id":{"name":"fntTitles","path":"fonts/fntTitles/fntTitles.yy",},"order":1,},
     {"id":{"name":"parDepthObject","path":"objects/parDepthObject/parDepthObject.yy",},"order":10,},
+    {"id":{"name":"tlSetObj1","path":"tilesets/tlSetObj1/tlSetObj1.yy",},"order":1,},
     {"id":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},"order":0,},
   ],
   "Options": [
