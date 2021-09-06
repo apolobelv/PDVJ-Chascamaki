@@ -17,6 +17,7 @@
     {"id":{"name":"fntFont1","path":"fonts/fntFont1/fntFont1.yy",},"order":0,},
     {"id":{"name":"sprIconsMenu","path":"sprites/sprIconsMenu/sprIconsMenu.yy",},"order":5,},
     {"id":{"name":"rmScreenMenu","path":"rooms/rmScreenMenu/rmScreenMenu.yy",},"order":8,},
+    {"id":{"name":"sprSelloUce","path":"sprites/sprSelloUce/sprSelloUce.yy",},"order":7,},
     {"id":{"name":"sprScreenAventure","path":"sprites/sprScreenAventure/sprScreenAventure.yy",},"order":2,},
     {"id":{"name":"sprScreenHome","path":"sprites/sprScreenHome/sprScreenHome.yy",},"order":0,},
     {"id":{"name":"objButton","path":"objects/objButton/objButton.yy",},"order":1,},
