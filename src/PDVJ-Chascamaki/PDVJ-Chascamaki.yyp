@@ -24,6 +24,7 @@
     {"id":{"name":"fntSubtitles","path":"fonts/fntSubtitles/fntSubtitles.yy",},"order":2,},
     {"id":{"name":"objTextBox","path":"objects/objTextBox/objTextBox.yy",},"order":7,},
     {"id":{"name":"sprTextBox","path":"sprites/sprTextBox/sprTextBox.yy",},"order":3,},
+    {"id":{"name":"sprRosa","path":"sprites/sprRosa/sprRosa.yy",},"order":7,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":1,},
     {"id":{"name":"sprScreenMenu","path":"sprites/sprScreenMenu/sprScreenMenu.yy",},"order":4,},
     {"id":{"name":"parInteractive","path":"objects/parInteractive/parInteractive.yy",},"order":6,},
