@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprSelloUce",
-    "path": "sprites/sprSelloUce/sprSelloUce.yy",
+    "name": "sptScreenCredits",
+    "path": "sprites/sptScreenCredits/sptScreenCredits.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,6 +24,7 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
