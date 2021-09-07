@@ -1,0 +1,2 @@
+text = "FACULTAD DE INGENIERIA Y CIENCIAS APLICADAS "; 
+textindex= 0 ; 
