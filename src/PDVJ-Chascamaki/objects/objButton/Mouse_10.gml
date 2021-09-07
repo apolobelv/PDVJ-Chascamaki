@@ -17,4 +17,4 @@ if (text == "SALIR"){
 	objIconsMenu.image_index=3; 
 }
 
-image_index= in+1; 
+image_index= in; 

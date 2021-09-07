@@ -1,2 +1,2 @@
 text = "AJUSTES"; 
-in = 0 ; 
+in = 7 ; 
