@@ -3,7 +3,7 @@
 image_index = in; 
 
 if (name = "rmScreenMenu"){
-objIconsMenu.image_index=0;
+	objIconsMenu.image_index=0;
 }
 
 press= false; 

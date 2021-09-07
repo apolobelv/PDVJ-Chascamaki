@@ -2,15 +2,8 @@
 // Puede escribir su código en este editor
 
 
-
-image_index= in+1; 
-
-
-
-
-
 if (text == "INICAR AVENTURA"){
-	objIconsMenu.image_index=0;
+	objIconsMenu.image_index=0;	
 }
 
 if (text= "AJUSTES"){
@@ -23,3 +16,5 @@ if (text = "CREDITOS"){
 if (text == "SALIR"){
 	objIconsMenu.image_index=3; 
 }
+
+image_index= in+1; 
