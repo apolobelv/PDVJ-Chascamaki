@@ -16,5 +16,7 @@ if (text = "CREDITOS"){
 if (text == "SALIR"){
 	objIconsMenu.image_index=3; 
 }
-
+if (text=""){
+	objIconsMenu.image_index=4; 
+}
 image_index= in; 

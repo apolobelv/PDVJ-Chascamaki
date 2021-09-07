@@ -1,3 +1,3 @@
 text = "SALIR"; 
-in = 0 ; 
+in = 1 ; 
 re=0; 
