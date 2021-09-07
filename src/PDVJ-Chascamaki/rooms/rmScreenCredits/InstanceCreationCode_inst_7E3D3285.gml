@@ -1,4 +1,4 @@
 text = "REGRESAR"; 
 image_index= 4 ; 
-in = 4 ; 
-re=0; 
+in = 0 ; 
+re=4; 
