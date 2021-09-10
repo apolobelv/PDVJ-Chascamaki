@@ -19,6 +19,7 @@ if (text = "CREDITOS"){
 if (text == "SALIR"){
 	objIconsMenu.image_index=3; 
 	objFondoMenu.image_index=4;
+	objRosaSalir.visible=true;
 }
 if (text=""){
 	objIconsMenu.image_index=4; 
