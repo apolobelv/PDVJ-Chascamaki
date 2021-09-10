@@ -154,6 +154,8 @@
   },
   "resourceVersion": "1.0",
   "name": "rmEstacionDeBus",
-  "tags": [],
+  "tags": [
+    "game",
+  ],
   "resourceType": "GMRoom",
 }

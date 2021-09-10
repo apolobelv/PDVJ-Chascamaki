@@ -1,4 +1,7 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+//draw_self();
 
-room_goto(rmZonaRes02); 
+if (room_get_name(room)== "rmScreenSettings"){
+ 
+}

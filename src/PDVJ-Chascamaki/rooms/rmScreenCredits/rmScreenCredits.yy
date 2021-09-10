@@ -69,6 +69,8 @@
   },
   "resourceVersion": "1.0",
   "name": "rmScreenCredits",
-  "tags": [],
+  "tags": [
+    "menu",
+  ],
   "resourceType": "GMRoom",
 }

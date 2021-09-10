@@ -63,6 +63,8 @@
   },
   "resourceVersion": "1.0",
   "name": "rmScreenMenu",
-  "tags": [],
+  "tags": [
+    "menu",
+  ],
   "resourceType": "GMRoom",
 }
