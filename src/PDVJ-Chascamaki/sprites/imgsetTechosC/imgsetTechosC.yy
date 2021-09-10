@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 47,
-  "bbox_top": 0,
-  "bbox_bottom": 47,
+  "bbox_right": 238,
+  "bbox_top": 16,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 48,
-  "height": 48,
+  "width": 239,
+  "height": 71,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bbbff7a1-19d0-44c1-b344-1b662e2a4ab1","path":"sprites/imgTechos2C/imgTechos2C.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bbbff7a1-19d0-44c1-b344-1b662e2a4ab1","path":"sprites/imgTechos2C/imgTechos2C.yy",},"LayerId":{"name":"38313718-534a-44eb-878e-154ae5a984e3","path":"sprites/imgTechos2C/imgTechos2C.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"imgTechos2C","path":"sprites/imgTechos2C/imgTechos2C.yy",},"resourceVersion":"1.0","name":"bbbff7a1-19d0-44c1-b344-1b662e2a4ab1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"89506583-5c1a-4c13-8465-7bd44d6fca14","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"89506583-5c1a-4c13-8465-7bd44d6fca14","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},"LayerId":{"name":"9df22246-e7b6-4f1f-9f09-173c9a6e26ba","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"imgsetTechosC","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},"resourceVersion":"1.0","name":"89506583-5c1a-4c13-8465-7bd44d6fca14","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"imgTechos2C","path":"sprites/imgTechos2C/imgTechos2C.yy",},
+    "spriteId": {"name":"imgsetTechosC","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a823a8af-8663-44f8-93e2-7dbb9ba0e12e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bbbff7a1-19d0-44c1-b344-1b662e2a4ab1","path":"sprites/imgTechos2C/imgTechos2C.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6991aa9b-8ebc-4ff8-8586-41217ef5b18b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"89506583-5c1a-4c13-8465-7bd44d6fca14","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"imgTechos2C","path":"sprites/imgTechos2C/imgTechos2C.yy",},
+    "parent": {"name":"imgsetTechosC","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},
     "resourceVersion": "1.3",
-    "name": "imgTechos2C",
+    "name": "imgsetTechosC",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"38313718-534a-44eb-878e-154ae5a984e3","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9df22246-e7b6-4f1f-9f09-173c9a6e26ba","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Tile Sets/ImgSet.yy",
   },
   "resourceVersion": "1.0",
-  "name": "imgTechos2C",
+  "name": "imgsetTechosC",
   "tags": [],
   "resourceType": "GMSprite",
 }
