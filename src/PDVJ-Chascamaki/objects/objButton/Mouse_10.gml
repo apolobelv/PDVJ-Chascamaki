@@ -18,6 +18,8 @@ if (text= "AJUSTES"){
 if (text = "CREDITOS"){
 	objIconsMenu.image_index=2;
 	objFondoMenu.image_index=3;
+	objRosaDefault.visible=false;
+	objRosaCreditos.visible = true;
 } 
 if (text == "SALIR"){
 	objIconsMenu.image_index=3; 

@@ -7,6 +7,7 @@ if (name = "rmScreenMenu"){
 	objFondoMenu.image_index=0;
 	objRosaSalir.visible=false;
 	objRosaAventura.visible=false;
+	objRosaCreditos.visible=false;
 	objRosaDefault.visible=true;
 	
 }
