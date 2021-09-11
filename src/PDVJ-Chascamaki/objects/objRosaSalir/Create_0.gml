@@ -1,4 +1,4 @@
-/// @description Inserte aquí la descripción
+/// @description
 // Puede escribir su código en este editor
 
 objRosaSalir.visible = false;
