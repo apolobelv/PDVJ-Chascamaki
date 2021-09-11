@@ -12,7 +12,8 @@ if (text == "INCIAR AVENTURA"){
 if (text= "AJUSTES"){
 	objIconsMenu.image_index=1;
 	objFondoMenu.image_index=2;
-	
+	objRosaDefault.visible=false;
+	objRosaAjustes.visible=true;
 }
 
 if (text = "CREDITOS"){
