@@ -8,11 +8,11 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 x = objCamera.x;
 y = objCamera.y; 
-
-
-
 draw_text(x,y,text);
 
-draw_set_font(fntTitles);
+/*
+xx=x-4;
+yy=y-1;
+draw_set_font(fntTitles02);
 draw_set_color(c_black);
-draw_text(x-1,y,text);
+draw_text(xx,yy,text);*/
