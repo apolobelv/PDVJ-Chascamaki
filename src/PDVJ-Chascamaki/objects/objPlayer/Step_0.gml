@@ -37,8 +37,8 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 				if (instance_exists(objTextBox)) {
 					instance_destroy(objTextBox)
 				}
-				interactionTextBox = instance_create_layer(50, 50, "Text", objTextBox);
-				interactionTextBox.thisText = currentInteractive.myText[interactiveIndex];
+				interactionTextBox = instance_create_layer(0, 0, "Text", objTextBox);
+				interactionTextBox._text = currentInteractive.myText[interactiveIndex];
 				interactiveIndex++;
 			} else {
 				instance_destroy(objTextBox);
