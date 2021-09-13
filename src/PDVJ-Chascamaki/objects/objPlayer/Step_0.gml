@@ -14,19 +14,19 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 	if (keyActivate) {
 		switch (faceDir) {
 			case 0: 
-				currentInteractive = instance_place(x + TILE_SIZE, y, parInteractive); 
+				currentInteractive = instance_place(x + TILE_SIZE/2, y, parInteractive); 
 				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 2; }
 				break;
 			case 1: 
-				currentInteractive = instance_place(x, y - TILE_SIZE, parInteractive); 
+				currentInteractive = instance_place(x, y - TILE_SIZE/2, parInteractive); 
 				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 3; }
 				break;
 			case 2: 
-				currentInteractive = instance_place(x - TILE_SIZE, y, parInteractive);
+				currentInteractive = instance_place(x - TILE_SIZE/2, y, parInteractive);
 				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 0; }
 				break;
 			case 3: 
-				currentInteractive = instance_place(x, y + TILE_SIZE, parInteractive);
+				currentInteractive = instance_place(x, y + TILE_SIZE/2, parInteractive);
 				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 1; }
 				break;
 		}
