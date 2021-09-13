@@ -20,6 +20,7 @@
     {"id":{"name":"imgObjDir2","path":"sprites/imgObjDir2/imgObjDir2.yy",},"order":11,},
     {"id":{"name":"rmTest1","path":"rooms/rmTest1/rmTest1.yy",},"order":1,},
     {"id":{"name":"fntScreenText","path":"fonts/fntScreenText/fntScreenText.yy",},"order":4,},
+    {"id":{"name":"objTextBuilds","path":"objects/objTextBuilds/objTextBuilds.yy",},"order":15,},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},"order":7,},
     {"id":{"name":"sprSello","path":"sprites/sprSello/sprSello.yy",},"order":7,},
     {"id":{"name":"sprRosaAjustes","path":"sprites/sprRosaAjustes/sprRosaAjustes.yy",},"order":14,},
@@ -91,8 +92,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rmZonaRes02","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},},
     {"roomId":{"name":"rmZonaRes01","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},},
+    {"roomId":{"name":"rmZonaRes02","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},},
     {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
     {"roomId":{"name":"rmCallejones","path":"rooms/rmCallejones/rmCallejones.yy",},},
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
