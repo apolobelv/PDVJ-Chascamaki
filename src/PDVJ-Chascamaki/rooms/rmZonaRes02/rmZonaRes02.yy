@@ -61,9 +61,6 @@
             {"propertyId":{"name":"ySpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"16","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":80.0,"y":528.0,"resourceVersion":"1.0","name":"inst_186B281E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
-            {"propertyId":{"name":"myText","path":"objects/objTextBuilds/objTextBuilds.yy",},"objectId":{"name":"objTextBuilds","path":"objects/objTextBuilds/objTextBuilds.yy",},"value":"[\" Venus de Valdivia \"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-          ],"isDnd":false,"objectId":{"name":"objTextBuilds","path":"objects/objTextBuilds/objTextBuilds.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":208.0,"y":368.0,"resourceVersion":"1.0","name":"inst_718CE438","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[
             {"propertyId":{"name":"targetRoom","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"rmZonaRes01","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"doorFaceDir","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"xSpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"96","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
@@ -204,7 +201,6 @@
     {"name":"inst_4608CECE","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
     {"name":"inst_6809CE35","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
     {"name":"inst_186B281E","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
-    {"name":"inst_718CE438","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
     {"name":"inst_3C031F2","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
     {"name":"inst_6BF9EA27","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
     {"name":"inst_7219A45A","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
