@@ -76,6 +76,7 @@
     {"id":{"name":"sprRosaDefault","path":"sprites/sprRosaDefault/sprRosaDefault.yy",},"order":11,},
     {"id":{"name":"sndMenus","path":"sounds/sndMenus/sndMenus.yy",},"order":0,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":0,},
+    {"id":{"name":"rmCasaRosaPiso2","path":"rooms/rmCasaRosaPiso2/rmCasaRosaPiso2.yy",},"order":14,},
     {"id":{"name":"fntTitles","path":"fonts/fntTitles/fntTitles.yy",},"order":1,},
     {"id":{"name":"sprIconsMenuFondo","path":"sprites/sprIconsMenuFondo/sprIconsMenuFondo.yy",},"order":9,},
     {"id":{"name":"parDepthObject","path":"objects/parDepthObject/parDepthObject.yy",},"order":10,},
@@ -106,6 +107,7 @@
     {"roomId":{"name":"rmScreenAventure","path":"rooms/rmScreenAventure/rmScreenAventure.yy",},},
     {"roomId":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},},
     {"roomId":{"name":"rmTienda","path":"rooms/rmTienda/rmTienda.yy",},},
+    {"roomId":{"name":"rmCasaRosaPiso2","path":"rooms/rmCasaRosaPiso2/rmCasaRosaPiso2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
