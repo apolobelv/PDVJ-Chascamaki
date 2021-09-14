@@ -1,7 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-//draw_self();
+cursor = window_get_cursor();
 
-if (room_get_name(room)== "rmScreenSettings"){
- 
-}
+window_set_cursor(cr_handpoint);
