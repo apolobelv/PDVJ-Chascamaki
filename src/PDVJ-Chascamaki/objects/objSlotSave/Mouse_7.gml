@@ -1,4 +1,4 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-room_goto(rmZonaRes01); 
+room_goto(rmCasaRosaPiso2); 
