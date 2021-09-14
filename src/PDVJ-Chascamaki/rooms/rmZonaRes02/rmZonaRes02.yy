@@ -85,6 +85,18 @@
             {"propertyId":{"name":"xSpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"16","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"ySpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"80","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":432.0,"y":96.0,"resourceVersion":"1.0","name":"inst_208053AF","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Samin y yo te estábamos esperando\", \"Él se cansó de esperarte y se adelantó\",\"Ve a buscarlo , yo debo esperar a mi madre\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprKillari","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":304.0,"y":448.0,"resourceVersion":"1.0","name":"inst_50C9C392","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprNina","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Esta vez sí ganare\", \"No me desconcentres\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":160.0,"resourceVersion":"1.0","name":"inst_36887CDF","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprSamin","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"0.1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":96.0,"resourceVersion":"1.0","name":"inst_1AC7A561","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tsTest","path":"tilesets/tsTest/tsTest.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":28,"SerialiseHeight":34,"TileSerialiseData":[
 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
@@ -209,6 +221,9 @@
     {"name":"inst_7219A45A","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
     {"name":"inst_208053AF","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
     {"name":"inst_4B53EE18","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
+    {"name":"inst_50C9C392","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
+    {"name":"inst_36887CDF","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
+    {"name":"inst_1AC7A561","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

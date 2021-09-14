@@ -36,8 +36,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ObjInterface",
+    "path": "folders/Objects/ObjInterface.yy",
   },
   "resourceVersion": "1.0",
   "name": "objSlide",
