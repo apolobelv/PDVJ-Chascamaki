@@ -123,6 +123,19 @@
             {"propertyId":{"name":"ySpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"160","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"targetRoom","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"rmEstacionDeBus","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":496.0,"resourceVersion":"1.0","name":"inst_2E1C0B77","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprNina","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Pienso que Hakan es genial\", \"Cuando sea grande quiero ser igual que el!, pero no le digas a mi abuelita\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":368.0,"y":288.0,"resourceVersion":"1.0","name":"inst_28040C6","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprNino","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Hola Rosa! Vas a participar en el torneo?\", \"Yo queria hacerlo, pero mi madre me dijo que no pierda el tiempo en eso\",\"Dice que debo estudiar mucho para conseguir un buen trabajo cuando sea grande\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":368.0,"y":112.0,"resourceVersion":"1.0","name":"inst_2B0F9F22","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprHakan","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Rosa! Lista para el gran torneo?\", \"Debes estar nerviosa, es el gran dia despues de todo\",\"Estoy seguro de que lo conseguiras! Claro, mientras no olvides las reglas basicas\",\"Deberiamos tener un juego de practica?\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":240.0,"y":464.0,"resourceVersion":"1.0","name":"inst_6484C332","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":112.0,"y":80.0,"resourceVersion":"1.0","name":"inst_C7D3A21","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSetCompleto","path":"tilesets/TileSetCompleto/TileSetCompleto.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":28,"SerialiseHeight":34,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,0,0,0,0,0,0,0,0,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -248,6 +261,10 @@
     {"name":"inst_1DF112A","path":"rooms/rmCallejones/rmCallejones.yy",},
     {"name":"inst_2E1C0B77","path":"rooms/rmCallejones/rmCallejones.yy",},
     {"name":"inst_4B77A083","path":"rooms/rmCallejones/rmCallejones.yy",},
+    {"name":"inst_28040C6","path":"rooms/rmCallejones/rmCallejones.yy",},
+    {"name":"inst_2B0F9F22","path":"rooms/rmCallejones/rmCallejones.yy",},
+    {"name":"inst_6484C332","path":"rooms/rmCallejones/rmCallejones.yy",},
+    {"name":"inst_C7D3A21","path":"rooms/rmCallejones/rmCallejones.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
