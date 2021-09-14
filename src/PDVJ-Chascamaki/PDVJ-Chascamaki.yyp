@@ -7,6 +7,7 @@
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"order":8,},
     {"id":{"name":"sprScreenText","path":"sprites/sprScreenText/sprScreenText.yy",},"order":8,},
+    {"id":{"name":"rmTienda","path":"rooms/rmTienda/rmTienda.yy",},"order":13,},
     {"id":{"name":"objInteractive","path":"objects/objInteractive/objInteractive.yy",},"order":9,},
     {"id":{"name":"objFondoMenu","path":"objects/objFondoMenu/objFondoMenu.yy",},"order":7,},
     {"id":{"name":"sprScreenCredits","path":"sprites/sprScreenCredits/sprScreenCredits.yy",},"order":3,},
@@ -104,6 +105,7 @@
     {"roomId":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},},
     {"roomId":{"name":"rmScreenAventure","path":"rooms/rmScreenAventure/rmScreenAventure.yy",},},
     {"roomId":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},},
+    {"roomId":{"name":"rmTienda","path":"rooms/rmTienda/rmTienda.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
