@@ -31,6 +31,7 @@
     {"id":{"name":"fntFont1","path":"fonts/fntFont1/fntFont1.yy",},"order":0,},
     {"id":{"name":"sprRosaSalir","path":"sprites/sprRosaSalir/sprRosaSalir.yy",},"order":10,},
     {"id":{"name":"imgObjDir4","path":"sprites/imgObjDir4/imgObjDir4.yy",},"order":9,},
+    {"id":{"name":"sprKillari","path":"sprites/sprKillari/sprKillari.yy",},"order":1,},
     {"id":{"name":"objRosaDefault","path":"objects/objRosaDefault/objRosaDefault.yy",},"order":9,},
     {"id":{"name":"sprIconsMenu","path":"sprites/sprIconsMenu/sprIconsMenu.yy",},"order":5,},
     {"id":{"name":"rmScreenMenu","path":"rooms/rmScreenMenu/rmScreenMenu.yy",},"order":8,},
@@ -70,6 +71,7 @@
     {"id":{"name":"imgsetCompleto","path":"sprites/imgsetCompleto/imgsetCompleto.yy",},"order":6,},
     {"id":{"name":"sprDoor","path":"sprites/sprDoor/sprDoor.yy",},"order":2,},
     {"id":{"name":"imgObjDir5","path":"sprites/imgObjDir5/imgObjDir5.yy",},"order":8,},
+    {"id":{"name":"sprSamin","path":"sprites/sprSamin/sprSamin.yy",},"order":0,},
     {"id":{"name":"objGame","path":"objects/objGame/objGame.yy",},"order":0,},
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},"order":2,},
     {"id":{"name":"imgsetTechosC","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},"order":12,},
@@ -131,6 +133,7 @@
     {"folderPath":"folders/Objects/ObjInterface.yy","order":13,"resourceVersion":"1.0","name":"ObjInterface","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets/ImgSet.yy","order":1,"resourceVersion":"1.0","name":"ImgSet","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets/TileSets.yy","order":2,"resourceVersion":"1.0","name":"TileSets","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/NPC.yy","order":8,"resourceVersion":"1.0","name":"NPC","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
