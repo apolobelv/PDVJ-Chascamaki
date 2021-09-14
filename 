@@ -1,0 +1,298 @@
+[33mcommit 5c0226dff06048dc12b8e8a3b3488e8d570f95cd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cris <mcnasimba@uce.edu.ec>
+Date:   Mon Sep 13 19:25:50 2021 -0500
+
+    rmTiendaV1
+    
+    Creacion tienda
+
+[33mcommit db39c7da044bb1bfa0f3039564ad05950eb3e3d2[m
+Author: pojo.dojo <asjacomea@uce.edu.ec>
+Date:   Mon Sep 13 16:50:44 2021 -0500
+
+    Corrección diálogo
+
+[33mcommit d570547d43dbe8ed8bd0c3bd1b93c778bce0fd8a[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 16:31:11 2021 -0500
+
+    correccion
+
+[33mcommit 8fdad97a0977d9eb689a9518a71e134460ae8f70[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 16:18:23 2021 -0500
+
+    Update InstanceCreationCode_inst_4B53EE18.gml
+
+[33mcommit 9403dcd4a78660264eb0100abb21809b7302fcaf[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 16:17:14 2021 -0500
+
+    textos pantalla corregido
+    
+    por favor funciona
+
+[33mcommit 5c4effa81602b15ef46343a2dae64d6a88229f44[m
+Merge: e1568b7 8e2e2bd
+Author: pojo.dojo <asjacomea@uce.edu.ec>
+Date:   Mon Sep 13 16:08:07 2021 -0500
+
+    Merge branch 'main' of https://github.com/apolobelv/PDVJ-Chascamaki into main
+
+[33mcommit e1568b75b24295ddb899fedd4a496a114c9d246b[m
+Author: pojo.dojo <asjacomea@uce.edu.ec>
+Date:   Mon Sep 13 16:04:53 2021 -0500
+
+    Sistema diálogos
+
+[33mcommit 8e2e2bdf093b2f9d45e0514958d82fb4843e56e1[m
+Author: ErickDColumba <55849689+ErickDColumba@users.noreply.github.com>
+Date:   Mon Sep 13 15:59:20 2021 -0500
+
+    textos faltantes
+
+[33mcommit 718f1616ed556c3aeeb762c073c92da45d41308e[m
+Author: ErickDColumba <55849689+ErickDColumba@users.noreply.github.com>
+Date:   Mon Sep 13 15:50:40 2021 -0500
+
+    archivo faltante
+
+[33mcommit 522a530dc11187f3ded8f729da787913b30d19fc[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 15:39:50 2021 -0500
+
+    texto
+
+[33mcommit 64676da8ca6a206121427d851c9f2e1388af0453[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 15:33:08 2021 -0500
+
+    Update Create_0.gml
+
+[33mcommit 17661d4bb4682571ec6b00a5e79f790ab5edaad5[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 15:31:10 2021 -0500
+
+    texto de inicio
+
+[33mcommit d4172e16d04c894cd123b6e427f6cf15940c3a4c[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 13:42:16 2021 -0500
+
+    Texto de  las pantallas
+
+[33mcommit 9a57a7f9e2c8d77917cc2bbee870c99e9f6c4188[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Mon Sep 13 10:06:16 2021 -0500
+
+    Colliders Callejones
+
+[33mcommit d1337563d1db9f857a09b25e4138b36912e1602f[m
+Merge: c2b2034 75282fb
+Author: Cris <mcnasimba@uce.edu.ec>
+Date:   Mon Sep 13 09:02:23 2021 -0500
+
+    Merge branch 'main' of https://github.com/apolobelv/PDVJ-Chascamaki into main
+
+[33mcommit 75282fbffba5d7e6db7a4d1f234e542d54d7c9d7[m
+Author: bpcuichan <bpcuichan@uce.edu.ec>
+Date:   Mon Sep 13 09:01:47 2021 -0500
+
+    Update rmZonaRes01.yy
+    
+    colliders Zr01
+
+[33mcommit c2b203446dacd57c307f1cca90210226ba62ab9c[m
+Author: Cris <mcnasimba@uce.edu.ec>
+Date:   Mon Sep 13 08:56:31 2021 -0500
+
+    Revert "EstacionDoor"
+    
+    This reverts commit 14263ed902e76fe9b7231b242fcbfb020317b199.
+
+[33mcommit 14263ed902e76fe9b7231b242fcbfb020317b199[m
+Author: Cris <mcnasimba@uce.edu.ec>
+Date:   Mon Sep 13 08:54:52 2021 -0500
+
+    EstacionDoor
+    
+    @Estacion de bus modificado
+
+[33mcommit ebdff42859f23fff6ccddb1bf0557ba45150a224[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Mon Sep 13 08:33:00 2021 -0500
+
+    Puertas faltantes Callejones
+
+[33mcommit d41ac5e4aa34db6ea9c6f933137ba39397b2f948[m
+Merge: d475a38 2502c0f
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Mon Sep 13 08:24:18 2021 -0500
+
+    Merge branch 'main' of https://github.com/apolobelv/PDVJ-Chascamaki into main
+
+[33mcommit d475a38994a24d16b7523ab2b8b3563bd2525385[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Mon Sep 13 08:24:03 2021 -0500
+
+    Actualización Colliders Callejones
+
+[33mcommit 2502c0fbfdacb43a4f07263a7383b22cf2be0ebd[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 08:08:12 2021 -0500
+
+    Update rmZonaRes02.yy
+
+[33mcommit 12c712c2fa49454a223e1ac3021f3f7b07bd1037[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 08:04:37 2021 -0500
+
+    correccion
+
+[33mcommit f48ab087cdaefac2fc6cfbf0c22809b994256199[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 07:54:46 2021 -0500
+
+    cambio de room
+
+[33mcommit 6de2b562001a207dc5ffc6c01f8b3c5ea882fcc2[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Mon Sep 13 07:48:00 2021 -0500
+
+    Update rmZonaRes02.yy
+
+[33mcommit 6be38ee134dd06d1c38e7110455c9576ca67832f[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Sun Sep 12 23:15:58 2021 -0500
+
+    mapas
+
+[33mcommit 617664979978f8ac7fb8491826aa171c82681382[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Sun Sep 12 23:14:07 2021 -0500
+
+    correccion de mapas
+
+[33mcommit 2e66b97e563c8776a3c1867325edcf1c9475d4e9[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Sun Sep 12 20:58:35 2021 -0500
+
+    colisiones arregledas
+
+[33mcommit 5edece4b8c408197918ef02ae091ffadedc777dd[m
+Author: bpcuichan <bpcuichan@uce.edu.ec>
+Date:   Sun Sep 12 20:46:59 2021 -0500
+
+    zr1
+
+[33mcommit f5c9458f377eeeceb563e476bbdf398d4c8902dc[m
+Author: bpcuichan <bpcuichan@uce.edu.ec>
+Date:   Sun Sep 12 20:45:16 2021 -0500
+
+    ZR1
+
+[33mcommit e847ef3e04da3c24b8f8f5cd14b9945e20252532[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Sat Sep 11 15:08:01 2021 -0500
+
+    Animacion ajustes rosa pantalla menu
+
+[33mcommit ab6deeb468d9081cf78b2642221ffbfb3ac156f9[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Sat Sep 11 14:30:20 2021 -0500
+
+    Animacion Rosa Creditos pantalla menu
+
+[33mcommit d5201e2c76093ac33c556b330e1749c620cf9ef7[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Sat Sep 11 12:22:56 2021 -0500
+
+    Animacion Rosa Inicio aventura Pantalla menu
+
+[33mcommit 9cc55ff19d3f2c79f191913d1ea5bdea74411b60[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Fri Sep 10 11:22:52 2021 -0500
+
+    Update rmZonaRes02.yy
+
+[33mcommit 7a691e384f1f226b9bd9c3847bb9f6b588aef95e[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Fri Sep 10 09:23:53 2021 -0500
+
+    Cambios colisiones callejones
+
+[33mcommit b76cf9f147174c5e6f583dde38e12abbf392a3c3[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Fri Sep 10 08:33:11 2021 -0500
+
+    Cambios Callejon Paredes y techo
+
+[33mcommit e05c925903ef1e3e470e54922c9083fac2e5a7ff[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Fri Sep 10 02:08:34 2021 -0500
+
+    Callejones Inicio
+
+[33mcommit ccf0494874dcb4aa8c243742c881d223e4482b9d[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Fri Sep 10 00:45:52 2021 -0500
+
+    Animacion pantalla inicio Rosa Default
+
+[33mcommit 9435d1df34a23a465ab4199016a8db07340bab3e[m
+Author: Aliuwu <amcupueran@uce.edu.ec>
+Date:   Thu Sep 9 23:49:35 2021 -0500
+
+    Prueba animacion Salir Rosa
+
+[33mcommit 17364637c49fd6b5b64318975e22469245276b68[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Thu Sep 9 22:26:29 2021 -0500
+
+    musica menu
+
+[33mcommit 92cd8526149f95b4513d65137119e2b6a6f5aeeb[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Tue Sep 7 12:35:16 2021 -0500
+
+    menus
+
+[33mcommit 3a7c2814547349412801cd7a4842e06281a5bcb1[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Tue Sep 7 12:22:43 2021 -0500
+
+    menu otravez
+
+[33mcommit 64e0dd8770436f832eaafdc56d1e0ce1dc60f52f[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Tue Sep 7 12:20:30 2021 -0500
+
+    Menu
+    
+    cambio al menu
+
+[33mcommit bdcf2e3cd486d88682cc0cf39d5a3d9daaa2b389[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Tue Sep 7 10:55:00 2021 -0500
+
+    menus
+
+[33mcommit d8ec7e763f3a8afa4468f89ed811df75859e858a[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Tue Sep 7 10:43:04 2021 -0500
+
+    modificaion bontones
+    
+    cambio del código para el funcionamiento de los botones
+
+[33mcommit 4a11e2977311947a2ceb821a5a7d199e83e76956[m
+Author: ErickC <asdhell096@gmail.com>
+Date:   Tue Sep 7 10:36:54 2021 -0500
+
+    modificacion del MENU
+    
+    color de iconos
+
+[33mcommit 297dcd6f54a26ce26a8d8900e0180b8c80a8f743[m
+Author: Cris <mcnasimba@uce.edu.ec>
+Date:   Tue Sep 7 10:06:45 2021
