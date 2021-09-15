@@ -4,6 +4,7 @@
     {"id":{"name":"tsTest","path":"tilesets/tsTest/tsTest.yy",},"order":0,},
     {"id":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"order":11,},
     {"id":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},"order":6,},
+    {"id":{"name":"objtest","path":"objects/objtest/objtest.yy",},"order":17,},
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"order":8,},
     {"id":{"name":"sprScreenText","path":"sprites/sprScreenText/sprScreenText.yy",},"order":8,},
@@ -119,8 +120,6 @@
     {"roomId":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},},
     {"roomId":{"name":"rmScreenAventure","path":"rooms/rmScreenAventure/rmScreenAventure.yy",},},
     {"roomId":{"name":"rmCasaRosaPiso1","path":"rooms/rmCasaRosaPiso1/rmCasaRosaPiso1.yy",},},
-    {"roomId":{"name":"","path":"",},},
-    {"roomId":{"name":"","path":"",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
