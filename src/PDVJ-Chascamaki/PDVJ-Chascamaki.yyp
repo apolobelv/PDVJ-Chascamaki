@@ -104,6 +104,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rmZonaRes02","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},},
     {"roomId":{"name":"rmEstacionDeBus","path":"rooms/rmEstacionDeBus/rmEstacionDeBus.yy",},},
     {"roomId":{"name":"rmTienda","path":"rooms/rmTienda/rmTienda.yy",},},
     {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
@@ -111,7 +112,6 @@
     {"roomId":{"name":"rmCasaRosaPiso2","path":"rooms/rmCasaRosaPiso2/rmCasaRosaPiso2.yy",},},
     {"roomId":{"name":"rmZonaRes01","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},},
     {"roomId":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},},
-    {"roomId":{"name":"rmZonaRes02","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},},
     {"roomId":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
     {"roomId":{"name":"rmScreenMenu","path":"rooms/rmScreenMenu/rmScreenMenu.yy",},},
     {"roomId":{"name":"rmScreenCredits","path":"rooms/rmScreenCredits/rmScreenCredits.yy",},},
