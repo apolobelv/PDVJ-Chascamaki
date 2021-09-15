@@ -2,18 +2,22 @@
   "resources": [
     {"id":{"name":"rmCallejones","path":"rooms/rmCallejones/rmCallejones.yy",},"order":11,},
     {"id":{"name":"tsTest","path":"tilesets/tsTest/tsTest.yy",},"order":0,},
-    {"id":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"order":11,},
+    {"id":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"order":9,},
     {"id":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},"order":6,},
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"order":8,},
     {"id":{"name":"sprScreenText","path":"sprites/sprScreenText/sprScreenText.yy",},"order":8,},
+<<<<<<< Updated upstream
     {"id":{"name":"rmTienda","path":"rooms/rmTienda/rmTienda.yy",},"order":13,},
     {"id":{"name":"objInteractive","path":"objects/objInteractive/objInteractive.yy",},"order":9,},
+=======
+    {"id":{"name":"objInteractive","path":"objects/objInteractive/objInteractive.yy",},"order":7,},
+>>>>>>> Stashed changes
     {"id":{"name":"objFondoMenu","path":"objects/objFondoMenu/objFondoMenu.yy",},"order":7,},
     {"id":{"name":"sprScreenCredits","path":"sprites/sprScreenCredits/sprScreenCredits.yy",},"order":3,},
     {"id":{"name":"objIconSave","path":"objects/objIconSave/objIconSave.yy",},"order":4,},
     {"id":{"name":"sndGameBatalla","path":"sounds/sndGameBatalla/sndGameBatalla.yy",},"order":1,},
-    {"id":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"order":5,},
+    {"id":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"order":3,},
     {"id":{"name":"objScreenControl","path":"objects/objScreenControl/objScreenControl.yy",},"order":0,},
     {"id":{"name":"TileSetCompleto","path":"tilesets/TileSetCompleto/TileSetCompleto.yy",},"order":6,},
     {"id":{"name":"objIconsMenu","path":"objects/objIconsMenu/objIconsMenu.yy",},"order":2,},
@@ -42,15 +46,21 @@
     {"id":{"name":"sprNina","path":"sprites/sprNina/sprNina.yy",},"order":3,},
     {"id":{"name":"objButton","path":"objects/objButton/objButton.yy",},"order":1,},
     {"id":{"name":"fntTitles02","path":"fonts/fntTitles02/fntTitles02.yy",},"order":5,},
+<<<<<<< Updated upstream
     {"id":{"name":"objSoundsControl","path":"objects/objSoundsControl/objSoundsControl.yy",},"order":14,},
     {"id":{"name":"sprSlide","path":"sprites/sprSlide/sprSlide.yy",},"order":15,},
+=======
+    {"id":{"name":"objSoundsControl","path":"objects/objSoundsControl/objSoundsControl.yy",},"order":11,},
+>>>>>>> Stashed changes
     {"id":{"name":"objTextoInicioRooms","path":"objects/objTextoInicioRooms/objTextoInicioRooms.yy",},"order":13,},
-    {"id":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"order":8,},
+    {"id":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"order":6,},
     {"id":{"name":"objRosaCreditos","path":"objects/objRosaCreditos/objRosaCreditos.yy",},"order":11,},
+    {"id":{"name":"objSistemaTienda","path":"objects/objSistemaTienda/objSistemaTienda.yy",},"order":12,},
+    {"id":{"name":"rmPlazaPrincipal","path":"rooms/rmPlazaPrincipal/rmPlazaPrincipal.yy",},"order":14,},
     {"id":{"name":"objRosaAventura","path":"objects/objRosaAventura/objRosaAventura.yy",},"order":10,},
     {"id":{"name":"sprTilesTest","path":"sprites/sprTilesTest/sprTilesTest.yy",},"order":0,},
     {"id":{"name":"fntSubtitles","path":"fonts/fntSubtitles/fntSubtitles.yy",},"order":2,},
-    {"id":{"name":"objTextBox","path":"objects/objTextBox/objTextBox.yy",},"order":7,},
+    {"id":{"name":"objTextBox","path":"objects/objTextBox/objTextBox.yy",},"order":5,},
     {"id":{"name":"sprTextBox","path":"sprites/sprTextBox/sprTextBox.yy",},"order":3,},
     {"id":{"name":"sprRosa","path":"sprites/sprRosa/sprRosa.yy",},"order":7,},
     {"id":{"name":"spr_Knob","path":"sprites/spr_Knob/spr_Knob.yy",},"order":16,},
@@ -58,7 +68,7 @@
     {"id":{"name":"rmEstacionDeBus","path":"rooms/rmEstacionDeBus/rmEstacionDeBus.yy",},"order":10,},
     {"id":{"name":"sprScreenMenu","path":"sprites/sprScreenMenu/sprScreenMenu.yy",},"order":4,},
     {"id":{"name":"objScreenText","path":"objects/objScreenText/objScreenText.yy",},"order":6,},
-    {"id":{"name":"parInteractive","path":"objects/parInteractive/parInteractive.yy",},"order":6,},
+    {"id":{"name":"parInteractive","path":"objects/parInteractive/parInteractive.yy",},"order":4,},
     {"id":{"name":"rmScreenAventure","path":"rooms/rmScreenAventure/rmScreenAventure.yy",},"order":5,},
     {"id":{"name":"sprScreenSettings","path":"sprites/sprScreenSettings/sprScreenSettings.yy",},"order":1,},
     {"id":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},"order":4,},
@@ -89,7 +99,7 @@
     {"id":{"name":"rmCasaRosaPiso2","path":"rooms/rmCasaRosaPiso2/rmCasaRosaPiso2.yy",},"order":14,},
     {"id":{"name":"fntTitles","path":"fonts/fntTitles/fntTitles.yy",},"order":1,},
     {"id":{"name":"sprIconsMenuFondo","path":"sprites/sprIconsMenuFondo/sprIconsMenuFondo.yy",},"order":9,},
-    {"id":{"name":"parDepthObject","path":"objects/parDepthObject/parDepthObject.yy",},"order":10,},
+    {"id":{"name":"parDepthObject","path":"objects/parDepthObject/parDepthObject.yy",},"order":8,},
     {"id":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},"order":0,},
   ],
   "Options": [
@@ -104,8 +114,14 @@
     "children": [],
   },
   "RoomOrderNodes": [
+<<<<<<< Updated upstream
     {"roomId":{"name":"rmEstacionDeBus","path":"rooms/rmEstacionDeBus/rmEstacionDeBus.yy",},},
     {"roomId":{"name":"rmTienda","path":"rooms/rmTienda/rmTienda.yy",},},
+=======
+    {"roomId":{"name":"rmPlazaPrincipal","path":"rooms/rmPlazaPrincipal/rmPlazaPrincipal.yy",},},
+    {"roomId":{"name":"rmZonaRes01","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},},
+    {"roomId":{"name":"rmZonaRes02","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},},
+>>>>>>> Stashed changes
     {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
     {"roomId":{"name":"rmCallejones","path":"rooms/rmCallejones/rmCallejones.yy",},},
     {"roomId":{"name":"rmCasaRosaPiso2","path":"rooms/rmCasaRosaPiso2/rmCasaRosaPiso2.yy",},},
@@ -139,7 +155,7 @@
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Screens.yy","order":5,"resourceVersion":"1.0","name":"Screens","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Others.yy","order":6,"resourceVersion":"1.0","name":"Others","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Objects/ObjInterface.yy","order":13,"resourceVersion":"1.0","name":"ObjInterface","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/ObjInterface.yy","order":10,"resourceVersion":"1.0","name":"ObjInterface","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets/ImgSet.yy","order":1,"resourceVersion":"1.0","name":"ImgSet","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets/TileSets.yy","order":2,"resourceVersion":"1.0","name":"TileSets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/NPC.yy","order":8,"resourceVersion":"1.0","name":"NPC","tags":[],"resourceType":"GMFolder",},
@@ -154,7 +170,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.577",
   },
   "resourceVersion": "1.4",
   "name": "PDVJ-Chascamaki",
