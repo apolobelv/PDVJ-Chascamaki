@@ -545,6 +545,8 @@
   },
   "resourceVersion": "1.0",
   "name": "rmPlazaPrincipal",
-  "tags": [],
+  "tags": [
+    "game",
+  ],
   "resourceType": "GMRoom",
 }
