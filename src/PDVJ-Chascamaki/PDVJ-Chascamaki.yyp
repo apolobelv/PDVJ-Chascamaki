@@ -83,7 +83,6 @@
     {"id":{"name":"imgObjDir5","path":"sprites/imgObjDir5/imgObjDir5.yy",},"order":8,},
     {"id":{"name":"sprVideo","path":"sprites/sprVideo/sprVideo.yy",},"order":1,},
     {"id":{"name":"sprSamin","path":"sprites/sprSamin/sprSamin.yy",},"order":0,},
-    {"id":{"name":"sprCoronaWinner","path":"sprites/sprCoronaWinner/sprCoronaWinner.yy",},"order":19,},
     {"id":{"name":"objGame","path":"objects/objGame/objGame.yy",},"order":0,},
     {"id":{"name":"rmPlazaPrincipal","path":"rooms/rmPlazaPrincipal/rmPlazaPrincipal.yy",},"order":16,},
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},"order":2,},
