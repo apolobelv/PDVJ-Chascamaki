@@ -112,11 +112,12 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
     {"roomId":{"name":"","path":"",},},
     {"roomId":{"name":"rmZonaRes02","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},},
+    {"roomId":{"name":"rmWinner","path":"rooms/rmWinner/rmWinner.yy",},},
     {"roomId":{"name":"rmEstacionDeBus","path":"rooms/rmEstacionDeBus/rmEstacionDeBus.yy",},},
     {"roomId":{"name":"rmTienda","path":"rooms/rmTienda/rmTienda.yy",},},
-    {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
     {"roomId":{"name":"rmCallejones","path":"rooms/rmCallejones/rmCallejones.yy",},},
     {"roomId":{"name":"rmCasaRosaPiso2","path":"rooms/rmCasaRosaPiso2/rmCasaRosaPiso2.yy",},},
     {"roomId":{"name":"rmZonaRes01","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},},
@@ -129,7 +130,6 @@
     {"roomId":{"name":"rmScreenAventure","path":"rooms/rmScreenAventure/rmScreenAventure.yy",},},
     {"roomId":{"name":"rmCasaRosaPiso1","path":"rooms/rmCasaRosaPiso1/rmCasaRosaPiso1.yy",},},
     {"roomId":{"name":"rmPlazaPrincipal","path":"rooms/rmPlazaPrincipal/rmPlazaPrincipal.yy",},},
-    {"roomId":{"name":"rmWinner","path":"rooms/rmWinner/rmWinner.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
