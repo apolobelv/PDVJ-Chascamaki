@@ -79,6 +79,7 @@
     {"id":{"name":"sprVideo","path":"sprites/sprVideo/sprVideo.yy",},"order":1,},
     {"id":{"name":"sprSamin","path":"sprites/sprSamin/sprSamin.yy",},"order":0,},
     {"id":{"name":"objGame","path":"objects/objGame/objGame.yy",},"order":0,},
+    {"id":{"name":"rmPlazaPrincipal","path":"rooms/rmPlazaPrincipal/rmPlazaPrincipal.yy",},"order":16,},
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},"order":2,},
     {"id":{"name":"imgsetTechosC","path":"sprites/imgsetTechosC/imgsetTechosC.yy",},"order":12,},
     {"id":{"name":"objSello","path":"objects/objSello/objSello.yy",},"order":5,},
@@ -119,8 +120,7 @@
     {"roomId":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},},
     {"roomId":{"name":"rmScreenAventure","path":"rooms/rmScreenAventure/rmScreenAventure.yy",},},
     {"roomId":{"name":"rmCasaRosaPiso1","path":"rooms/rmCasaRosaPiso1/rmCasaRosaPiso1.yy",},},
-    {"roomId":{"name":"","path":"",},},
-    {"roomId":{"name":"","path":"",},},
+    {"roomId":{"name":"rmPlazaPrincipal","path":"rooms/rmPlazaPrincipal/rmPlazaPrincipal.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
