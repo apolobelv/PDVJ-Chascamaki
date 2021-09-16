@@ -2,15 +2,11 @@
 // You can write your code in this editor
 if (image_number) > 4 {
 	image_index = faceDir * 3 + 1;
-} else {
-	
-	if (spriteIndex== sprText){
-		image_index= 0; 
-	}else{
+} else {	
 		image_index = faceDir + 1;
-	}
-	
 }
+
+
 
 
 
