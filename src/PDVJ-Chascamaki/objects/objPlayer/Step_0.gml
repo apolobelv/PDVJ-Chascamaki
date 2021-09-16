@@ -12,24 +12,27 @@ keyBack = keyboard_check_pressed(vk_shift);
 if (isIdle || isInteracting) { // Si está quieto o interactuando
 	// El input de acción tiene precedencia sobre el input direccional
 	if (keyActivate) {
-		switch (faceDir) {
-			case 0: 
-				currentInteractive = instance_place(x + TILE_SIZE/2, y, parInteractive); 
-				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 2; }
-				break;
-			case 1: 
-				currentInteractive = instance_place(x, y - TILE_SIZE/2, parInteractive); 
-				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 3; }
-				break;
-			case 2: 
-				currentInteractive = instance_place(x - TILE_SIZE/2, y, parInteractive);
-				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 0; }
-				break;
-			case 3: 
-				currentInteractive = instance_place(x, y + TILE_SIZE/2, parInteractive);
-				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 1; }
-				break;
-		}
+		
+			switch (faceDir) {
+				case 0: 
+					currentInteractive = instance_place(x + TILE_SIZE/2, y, parInteractive); 
+					if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 2; }
+					break;
+				case 1: 
+					currentInteractive = instance_place(x, y - TILE_SIZE/2, parInteractive); 
+					if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 3; }
+					break;
+				case 2: 
+					currentInteractive = instance_place(x - TILE_SIZE/2, y, parInteractive);
+					if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 0; }
+					break;
+				case 3: 
+					currentInteractive = instance_place(x, y + TILE_SIZE/2, parInteractive);
+					if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 1; }
+					break;
+			}
+		
+		
 		if (currentInteractive > 10) {
 			isInteracting = true;
 			isIdle = false;

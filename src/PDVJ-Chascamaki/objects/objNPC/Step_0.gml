@@ -3,7 +3,16 @@
 if (image_number) > 4 {
 	image_index = faceDir * 3 + 1;
 } else {
-	image_index = faceDir + 1;
+	
+	if (spriteIndex== sprText){
+		image_index= 0; 
+	}else{
+		image_index = faceDir + 1;
+	}
+	
 }
+
+
+
 
 // (spriteIndex * 12) 
