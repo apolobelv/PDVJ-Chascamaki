@@ -139,6 +139,15 @@
             {"propertyId":{"name":"ySpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"288","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"targetRoom","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"rmPlazaPrincipal","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":96.0,"resourceVersion":"1.0","name":"inst_3AF3D7CF","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Q'upa (Basura)\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprText","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":176.0,"resourceVersion":"1.0","name":"inst_369FEADB","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Achkiy (Luz)\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprText","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":48.0,"y":352.0,"resourceVersion":"1.0","name":"inst_6B11C6AA","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":80.0,"resourceVersion":"1.0","name":"inst_5801D4F4","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSetCompleto","path":"tilesets/TileSetCompleto/TileSetCompleto.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":28,"SerialiseHeight":34,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,0,0,0,0,0,0,0,0,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -268,6 +277,9 @@
     {"name":"inst_5326A923","path":"rooms/rmCallejones/rmCallejones.yy",},
     {"name":"inst_B816557","path":"rooms/rmCallejones/rmCallejones.yy",},
     {"name":"inst_3AF3D7CF","path":"rooms/rmCallejones/rmCallejones.yy",},
+    {"name":"inst_369FEADB","path":"rooms/rmCallejones/rmCallejones.yy",},
+    {"name":"inst_6B11C6AA","path":"rooms/rmCallejones/rmCallejones.yy",},
+    {"name":"inst_5801D4F4","path":"rooms/rmCallejones/rmCallejones.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
