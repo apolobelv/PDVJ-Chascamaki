@@ -24,7 +24,7 @@ if (text = "REGRESAR"){
 }
 
 if (text = ""){
-	
+	room_goto(rmScreenHelpControl);
 	
 }
           
