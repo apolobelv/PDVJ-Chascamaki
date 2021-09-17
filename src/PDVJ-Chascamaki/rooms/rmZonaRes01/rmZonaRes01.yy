@@ -15,9 +15,6 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"objTextoInicioRooms","path":"objects/objTextoInicioRooms/objTextoInicioRooms.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":176.0,"y":176.0,"resourceVersion":"1.0","name":"inst_18BD1BBC","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":128.0,"resourceVersion":"1.0","name":"inst_3D604C91","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":144.0,"y":208.0,"resourceVersion":"1.0","name":"inst_3505CB7E","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":96.0,"resourceVersion":"1.0","name":"inst_4717614A","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"NameRoom","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Text","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSetCompleto","path":"tilesets/TileSetCompleto/TileSetCompleto.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":28,"SerialiseHeight":22,"TileSerialiseData":[
@@ -93,6 +90,18 @@
             {"propertyId":{"name":"xSpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"144","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"ySpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"208","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":160.0,"resourceVersion":"1.0","name":"inst_1C1F2F3A","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Hola vecina\", \"Es el momento perfecto para viajar\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprAbuela","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":240.0,"resourceVersion":"1.0","name":"inst_3505CB7E","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprAbuelo","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Saludos Rosa\", \"Buena suerte  \"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":160.0,"resourceVersion":"1.0","name":"inst_3D604C91","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"myText","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"[\"Hola Rosa\", \"Buen viaje\"]","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"spriteIndex","path":"objects/objNPC/objNPC.yy",},"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"value":"sprSenora01","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":96.0,"resourceVersion":"1.0","name":"inst_4717614A","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSetCompleto","path":"tilesets/TileSetCompleto/TileSetCompleto.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":28,"SerialiseHeight":22,"TileSerialiseData":[
 908,909,910,384,2147483648,0,2147483648,2147483648,2147483648,384,219,220,220,220,220,220,220,220,220,220,221,564,5072,908,909,910,909,910,
@@ -136,9 +145,9 @@
 1002,1003,1003,1003,4401,5743,7591,7508,1003,1003,1003,1003,1003,1003,1003,7593,1003,1003,1003,1003,1003,1003,1003,4487,1348,1349,1349,1350,
 1002,1003,1003,1003,4401,5743,7591,7508,1003,1003,1003,1003,1003,1003,1003,7593,1003,1003,1003,1003,1003,1003,1003,4487,1435,1436,1436,1437,
 1002,1003,1003,1003,4401,5743,7591,7508,1003,1003,1003,1003,1003,1003,1003,7593,1003,1003,1003,1003,1003,1003,1003,4487,1003,1003,1003,1004,
-1002,1003,1003,1003,4401,5917,7678,7682,1003,1003,1003,1003,1003,1003,1003,7593,1003,1003,1003,1003,1003,1003,1003,4487,1003,1003,1003,1004,
-1002,1003,1003,1003,4401,4401,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,4487,1003,1003,1003,1004,
-1002,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1004,
+1002,1003,1003,1003,4401,5743,7678,7682,1003,1003,1003,1003,1003,1003,1003,7593,1003,1003,1003,1003,1003,1003,1003,4487,1003,1003,1003,1004,
+1002,1003,1003,1003,4401,5917,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,7506,4487,1003,1003,1003,1004,
+1002,1003,1003,1003,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,4401,1003,1003,1003,1004,
 1002,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1003,1004,
 1089,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1090,1091,
 ],},"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Floor","tags":[],"resourceType":"GMRTileLayer",},
@@ -156,10 +165,10 @@
     {"name":"inst_F47AD95","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
     {"name":"inst_22AA0D02","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
     {"name":"inst_18BD1BBC","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
-    {"name":"inst_3D604C91","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
-    {"name":"inst_3505CB7E","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
-    {"name":"inst_4717614A","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
     {"name":"inst_1C1F2F3A","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
+    {"name":"inst_3505CB7E","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
+    {"name":"inst_3D604C91","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
+    {"name":"inst_4717614A","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
