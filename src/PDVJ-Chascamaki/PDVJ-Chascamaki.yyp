@@ -115,6 +115,7 @@
     {"id":{"name":"rmScreenHelpRules","path":"rooms/rmScreenHelpRules/rmScreenHelpRules.yy",},"order":21,},
     {"id":{"name":"rmCasaRosaPiso2","path":"rooms/rmCasaRosaPiso2/rmCasaRosaPiso2.yy",},"order":14,},
     {"id":{"name":"fntTitles","path":"fonts/fntTitles/fntTitles.yy",},"order":1,},
+    {"id":{"name":"sndPasos","path":"sounds/sndPasos/sndPasos.yy",},"order":3,},
     {"id":{"name":"sprScreenWinner","path":"sprites/sprScreenWinner/sprScreenWinner.yy",},"order":17,},
     {"id":{"name":"sprIconsMenuFondo","path":"sprites/sprIconsMenuFondo/sprIconsMenuFondo.yy",},"order":9,},
     {"id":{"name":"sprSenora01","path":"sprites/sprSenora01/sprSenora01.yy",},"order":9,},

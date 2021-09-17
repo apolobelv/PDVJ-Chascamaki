@@ -12,7 +12,7 @@ keyBack = keyboard_check_pressed(vk_shift);
 if (isIdle || isInteracting) { // Si está quieto o interactuando
 	// El input de acción tiene precedencia sobre el input direccional
 	if (keyActivate) {
-		
+			
 			switch (faceDir) {
 				case 0: 
 					currentInteractive = instance_place(x + TILE_SIZE/2, y, parInteractive); 
@@ -66,7 +66,9 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 		if (faceDir != walkDir) { // Si estaba viendo en una dirección diferente...
 			isTurning = true;
 			isIdle = false;
+			audio_play_sound(sndPasos,1,true);	
 		} else {
+			audio_stop_sound(sndPasos);
 			// Antes de movernos, es bueno averiguar si frente a nosotros hay una puerta
 			doorId = instance_place(x + hMove * TILE_SIZE, y + vMove * TILE_SIZE, objDoor);
 			if (doorId < 5000) {
