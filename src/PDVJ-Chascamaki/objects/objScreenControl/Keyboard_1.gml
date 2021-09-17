@@ -3,5 +3,5 @@
 
 
 //cambio de pantalla al precionar cualquier tecla 
-room_goto(rmScreenMenu);
+room_goto(rmIntroVideo);
             
