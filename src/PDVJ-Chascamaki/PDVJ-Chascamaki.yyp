@@ -7,6 +7,7 @@
     {"id":{"name":"sprRosaGameOver","path":"sprites/sprRosaGameOver/sprRosaGameOver.yy",},"order":21,},
     {"id":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},"order":6,},
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
+    {"id":{"name":"sprGuardia","path":"sprites/sprGuardia/sprGuardia.yy",},"order":12,},
     {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"order":8,},
     {"id":{"name":"sprScreenText","path":"sprites/sprScreenText/sprScreenText.yy",},"order":8,},
     {"id":{"name":"rmTienda","path":"rooms/rmTienda/rmTienda.yy",},"order":13,},

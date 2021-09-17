@@ -1,0 +1,1 @@
+myText = ["Hola Rosa te estaba esperando ", "Quería entrar en el torneo", "Quiero desafiarte a un juego antes de que te vayas", "De verdad eres increible en el juego",  "Ten esto, de seguro te ayudara en cualquier momento",  "!SUERTE!!" ]

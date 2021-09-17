@@ -1,0 +1,1 @@
+myText = ["Hola Rosa veo que esta lista para empezar el torneo ", "Ten unas monedas y suerte en tú aventura"]
