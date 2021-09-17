@@ -3,6 +3,7 @@
     {"id":{"name":"rmCallejones","path":"rooms/rmCallejones/rmCallejones.yy",},"order":11,},
     {"id":{"name":"tsTest","path":"tilesets/tsTest/tsTest.yy",},"order":0,},
     {"id":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"order":11,},
+    {"id":{"name":"sprRosaGameOver","path":"sprites/sprRosaGameOver/sprRosaGameOver.yy",},"order":21,},
     {"id":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},"order":6,},
     {"id":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},"order":3,},
     {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"order":8,},
@@ -20,6 +21,7 @@
     {"id":{"name":"TileSetCompleto","path":"tilesets/TileSetCompleto/TileSetCompleto.yy",},"order":6,},
     {"id":{"name":"objIconsMenu","path":"objects/objIconsMenu/objIconsMenu.yy",},"order":2,},
     {"id":{"name":"rmZonaRes01","path":"rooms/rmZonaRes01/rmZonaRes01.yy",},"order":12,},
+    {"id":{"name":"objRosaGameOver","path":"objects/objRosaGameOver/objRosaGameOver.yy",},"order":18,},
     {"id":{"name":"imgObjDir2","path":"sprites/imgObjDir2/imgObjDir2.yy",},"order":11,},
     {"id":{"name":"rmCasaRosaPiso1","path":"rooms/rmCasaRosaPiso1/rmCasaRosaPiso1.yy",},"order":15,},
     {"id":{"name":"rmTest1","path":"rooms/rmTest1/rmTest1.yy",},"order":1,},
@@ -124,6 +126,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rmGameOver","path":"rooms/rmGameOver/rmGameOver.yy",},},
     {"roomId":{"name":"rmScreenHome","path":"rooms/rmScreenHome/rmScreenHome.yy",},},
     {"roomId":{"name":"rmZonaRes02","path":"rooms/rmZonaRes02/rmZonaRes02.yy",},},
     {"roomId":{"name":"rmWinner","path":"rooms/rmWinner/rmWinner.yy",},},
@@ -142,7 +145,6 @@
     {"roomId":{"name":"rmScreenSettings","path":"rooms/rmScreenSettings/rmScreenSettings.yy",},},
     {"roomId":{"name":"rmTest1_1","path":"rooms/rmTest1_1/rmTest1_1.yy",},},
     {"roomId":{"name":"","path":"",},},
-    {"roomId":{"name":"rmGameOver","path":"rooms/rmGameOver/rmGameOver.yy",},},
     {"roomId":{"name":"rmIntroVideo","path":"rooms/rmIntroVideo/rmIntroVideo.yy",},},
   ],
   "Folders": [
