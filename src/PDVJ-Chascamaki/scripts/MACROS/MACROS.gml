@@ -1,6 +1,8 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-#macro unit_size 16
-#macro frame_rate 60
-#macro pantalla_ancho 60
-#macro pantalla_alto 45
+#macro TILE_SIZE 16
+#macro FRAME_RATE 60
+#macro RESOLUTION_W 240
+#macro RESOLUTION_H 176
+
+function MACROS(){
+
+}
