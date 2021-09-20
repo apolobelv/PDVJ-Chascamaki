@@ -18,6 +18,8 @@ walkDir = faceDir;
 currentInteractive = 0;
 interactiveIndex = 0;
 
+global.can_move = true;
+
 walkSpeed = 1;
 arrayWalk = 0;
 frameTimer = 0;
