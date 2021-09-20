@@ -1,8 +1,6 @@
 #macro TILE_SIZE 16
-#macro FRAME_RATE 60
-#macro RESOLUTION_W 240
-#macro RESOLUTION_H 176
 
-function MACROS(){
-
-}
+#macro unit_size 16
+#macro frame_rate 60
+#macro pantalla_ancho 60
+#macro pantalla_alto 45

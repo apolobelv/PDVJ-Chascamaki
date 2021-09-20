@@ -1,38 +1,35 @@
-/// @desc Actualización constante
 tilemap = layer_tilemap_get_id("Colliders");
 
-// 1. Vamos a recoger el input.
 keyLeft = keyboard_check(vk_left) || keyboard_check(ord("A"));
-keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));;
-keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));;
-keyDown = keyboard_check(vk_down) || keyboard_check(ord("S"));;
+keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));
+keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));
+keyDown = keyboard_check(vk_down) || keyboard_check(ord("S"));
 keyActivate = keyboard_check_pressed(vk_space);
-keyBack = keyboard_check_pressed(vk_shift);
+keyBack = keyboard_check_pressed(vk_escape);
 
-if (isIdle || isInteracting) { // Si está quieto o interactuando
+#region No tocar
+
+if (global.can_move && (isIdle || isInteracting)) { // Si está quieto o interactuando
 	// El input de acción tiene precedencia sobre el input direccional
 	if (keyActivate) {
-			audio_play_sound(sndText,10,false);
-			switch (faceDir) {
-				case 0: 
-					currentInteractive = instance_place(x + TILE_SIZE/2, y, parInteractive); 
-					if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 2; }
-					break;
-				case 1: 
-					currentInteractive = instance_place(x, y - TILE_SIZE/2, parInteractive); 
-					if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 3; }
-					break;
-				case 2: 
-					currentInteractive = instance_place(x - TILE_SIZE/2, y, parInteractive);
-					if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 0; }
-					break;
-				case 3: 
-					currentInteractive = instance_place(x, y + TILE_SIZE/2, parInteractive);
-					if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 1; }
-					break;
-			}
-		
-		
+		switch (faceDir) {
+			case 0: 
+				currentInteractive = instance_place(x + TILE_SIZE/2, y, parInteractive); 
+				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 2; }
+				break;
+			case 1: 
+				currentInteractive = instance_place(x, y - TILE_SIZE/2, parInteractive); 
+				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 3; }
+				break;
+			case 2: 
+				currentInteractive = instance_place(x - TILE_SIZE/2, y, parInteractive);
+				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 0; }
+				break;
+			case 3: 
+				currentInteractive = instance_place(x, y + TILE_SIZE/2, parInteractive);
+				if (currentInteractive > 10 && currentInteractive.isNPC) { currentInteractive.faceDir = 1; }
+				break;
+		}
 		if (currentInteractive > 10) {
 			isInteracting = true;
 			isIdle = false;
@@ -51,9 +48,8 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 				isIdle = true;
 			}
 		}
-	} else if (isIdle) {
+	} else if (global.can_move && isIdle) {
 		// Verificar la dirección en la que queremos caminar (y vemos que solo una dirección ingrese).	
-		
 		hMove = keyRight - keyLeft;
 		vMove = keyDown - keyUp;
 		if (hMove <> 0) {
@@ -67,10 +63,7 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 		if (faceDir != walkDir) { // Si estaba viendo en una dirección diferente...
 			isTurning = true;
 			isIdle = false;
-			
-	
 		} else {
-			
 			// Antes de movernos, es bueno averiguar si frente a nosotros hay una puerta
 			doorId = instance_place(x + hMove * TILE_SIZE, y + vMove * TILE_SIZE, objDoor);
 			if (doorId < 5000) {
@@ -96,7 +89,6 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 				isIdle = false;
 			} else {
 				room_goto(doorId.targetRoom);
-				audio_play_sound(sndTpRoom,10,false);
 				objPlayer.x = doorId.xSpawn;
 				objPlayer.y = doorId.ySpawn;
 				objPlayer.faceDir = doorId.doorFaceDir;
@@ -121,7 +113,6 @@ if (isTurning) {
 }
 		
 if (isMoving) { 
-
 	x += walkSpeed * hMove;	
 	y += walkSpeed * vMove;	
 	
@@ -139,6 +130,43 @@ if (isMoving) {
 		isMoving = false;
 		isIdle = true;
 		frameTimer = 0;
+	}
+}
+
+#endregion
+
+var _x, _y;
+
+switch(faceDir) {
+	case 0:
+		_x = 1;
+		_y = 0;
+		break;
+	case 1:
+		_x = 0;
+		_y = -1;
+		break;
+	case 2:
+		_x = -1;
+		_y = 0;
+		break;
+	case 3:
+		_x = 0;
+		_y = 1;
+		break;
+}
+
+var tienda = instance_place(x + 8*_x, y + 8*_y + 8, objTienda);
+
+if (keyActivate && tienda != noone) {
+	tienda.active = true;
+	global.can_move = false;
+}
+
+if (keyBack && isIdle) {
+	if (!instance_exists(objMenu)) {
+		instance_create_layer(0, 0, "HUD", objMenu);
+		global.can_move = false;
 	}
 }
 
