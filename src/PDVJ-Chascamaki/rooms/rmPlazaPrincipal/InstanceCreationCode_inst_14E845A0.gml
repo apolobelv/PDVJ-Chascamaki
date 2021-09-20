@@ -1,1 +1,1 @@
-myText = randomText(); 
+myText = ["Hola. . .", "Este es un exelente lugar para adquirir posiones", "Vulve pronto"]; 
