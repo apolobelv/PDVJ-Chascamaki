@@ -101,8 +101,6 @@
     {"id":{"name":"imgObjDir5","path":"sprites/imgObjDir5/imgObjDir5.yy",},"order":8,},
     {"id":{"name":"sprScreenGameOver","path":"sprites/sprScreenGameOver/sprScreenGameOver.yy",},"order":20,},
     {"id":{"name":"sprVideo","path":"sprites/sprVideo/sprVideo.yy",},"order":1,},
-    {"id":{"name":"sndTpRoom","path":"sounds/sndTpRoom/sndTpRoom.yy",},"order":5,},
-    {"id":{"name":"sndText","path":"sounds/sndText/sndText.yy",},"order":4,},
     {"id":{"name":"sprSamin","path":"sprites/sprSamin/sprSamin.yy",},"order":0,},
     {"id":{"name":"objGame","path":"objects/objGame/objGame.yy",},"order":0,},
     {"id":{"name":"rmPlazaPrincipal","path":"rooms/rmPlazaPrincipal/rmPlazaPrincipal.yy",},"order":16,},
