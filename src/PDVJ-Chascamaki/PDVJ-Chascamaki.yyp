@@ -95,7 +95,7 @@
     {"id":{"name":"sprSlotGames","path":"sprites/sprSlotGames/sprSlotGames.yy",},"order":6,},
     {"id":{"name":"imgObjDir1","path":"sprites/imgObjDir1/imgObjDir1.yy",},"order":10,},
     {"id":{"name":"objSettings","path":"objects/objSettings/objSettings.yy",},"order":16,},
-    {"id":{"name":"rmDialogos","path":"scripts/rmDialogos/rmDialogos.yy",},"order":1,},
+    {"id":{"name":"randomDialogos","path":"scripts/randomDialogos/randomDialogos.yy",},"order":1,},
     {"id":{"name":"sprButton","path":"sprites/sprButton/sprButton.yy",},"order":0,},
     {"id":{"name":"imgsetCompleto","path":"sprites/imgsetCompleto/imgsetCompleto.yy",},"order":6,},
     {"id":{"name":"sprDoor","path":"sprites/sprDoor/sprDoor.yy",},"order":2,},
