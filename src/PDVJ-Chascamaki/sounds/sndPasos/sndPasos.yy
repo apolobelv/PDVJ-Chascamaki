@@ -2,7 +2,7 @@
   "compression": 0,
   "volume": 1.0,
   "preload": false,
-  "bitRate": 128,
+  "bitRate": 320,
   "sampleRate": 44100,
   "type": 1,
   "bitDepth": 1,
@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sndPasos.mp3",
-  "duration": 1.352,
+  "duration": 0.752,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

@@ -12,7 +12,7 @@ keyBack = keyboard_check_pressed(vk_shift);
 if (isIdle || isInteracting) { // Si está quieto o interactuando
 	// El input de acción tiene precedencia sobre el input direccional
 	if (keyActivate) {
-			
+			audio_play_sound(sndText,10,false);
 			switch (faceDir) {
 				case 0: 
 					currentInteractive = instance_place(x + TILE_SIZE/2, y, parInteractive); 
@@ -53,6 +53,7 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 		}
 	} else if (isIdle) {
 		// Verificar la dirección en la que queremos caminar (y vemos que solo una dirección ingrese).	
+		
 		hMove = keyRight - keyLeft;
 		vMove = keyDown - keyUp;
 		if (hMove <> 0) {
@@ -66,9 +67,10 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 		if (faceDir != walkDir) { // Si estaba viendo en una dirección diferente...
 			isTurning = true;
 			isIdle = false;
-			audio_play_sound(sndPasos,1,true);	
+			
+	
 		} else {
-			audio_stop_sound(sndPasos);
+			
 			// Antes de movernos, es bueno averiguar si frente a nosotros hay una puerta
 			doorId = instance_place(x + hMove * TILE_SIZE, y + vMove * TILE_SIZE, objDoor);
 			if (doorId < 5000) {
@@ -94,6 +96,7 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 				isIdle = false;
 			} else {
 				room_goto(doorId.targetRoom);
+				audio_play_sound(sndTpRoom,10,false);
 				objPlayer.x = doorId.xSpawn;
 				objPlayer.y = doorId.ySpawn;
 				objPlayer.faceDir = doorId.doorFaceDir;
@@ -118,6 +121,7 @@ if (isTurning) {
 }
 		
 if (isMoving) { 
+
 	x += walkSpeed * hMove;	
 	y += walkSpeed * vMove;	
 	
@@ -137,3 +141,11 @@ if (isMoving) {
 		frameTimer = 0;
 	}
 }
+
+if (isMoving){
+	audio_play_sound(sndPasos,10,false);
+	
+}else{
+	audio_stop_sound(sndPasos);
+}
+	show_debug_message(string(isMoving));
