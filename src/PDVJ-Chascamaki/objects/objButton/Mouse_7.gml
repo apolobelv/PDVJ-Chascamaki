@@ -4,7 +4,7 @@
 //abandona el codigo si no esta sobre el boton; 
 if !press exit; 
 
-if (text == "INCIAR AVENTURA"){
+if (text == "INICIAR AVENTURA"){
 	room_goto(rmScreenAventure); 
 }
 
