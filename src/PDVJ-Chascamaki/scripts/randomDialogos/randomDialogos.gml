@@ -15,5 +15,7 @@ function randomText(){
 	ds_list_add(textList, ["No puedo hablar ahora", "Rapido Rapido. . .", "LLegare Tardeeeee . . . "]); 
 
 	return ds_list_find_value(textList, random_range(0, ds_list_size(textList))); 
+	
+	ds_list_destroy(textList); 
 
 }

@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sndVideoIntro.mp3",
-  "duration": 96.128,
+  "duration": 103.230873,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

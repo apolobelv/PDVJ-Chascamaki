@@ -148,4 +148,4 @@ if (isMoving){
 }else{
 	audio_stop_sound(sndPasos);
 }
-	show_debug_message(string(isMoving));
+	//show_debug_message(string(isMoving));
