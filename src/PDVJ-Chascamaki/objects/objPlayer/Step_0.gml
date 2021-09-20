@@ -1,15 +1,15 @@
-/// @desc Actualización constante
 tilemap = layer_tilemap_get_id("Colliders");
 
-// 1. Vamos a recoger el input.
 keyLeft = keyboard_check(vk_left) || keyboard_check(ord("A"));
-keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));;
-keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));;
-keyDown = keyboard_check(vk_down) || keyboard_check(ord("S"));;
+keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));
+keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));
+keyDown = keyboard_check(vk_down) || keyboard_check(ord("S"));
 keyActivate = keyboard_check_pressed(vk_space);
-keyBack = keyboard_check_pressed(vk_shift);
+keyBack = keyboard_check_pressed(vk_escape);
 
-if (isIdle || isInteracting) { // Si está quieto o interactuando
+#region No tocar
+
+if (global.can_move && (isIdle || isInteracting)) { // Si está quieto o interactuando
 	// El input de acción tiene precedencia sobre el input direccional
 	if (keyActivate) {
 			audio_play_sound(sndText,10,false);
@@ -51,7 +51,7 @@ if (isIdle || isInteracting) { // Si está quieto o interactuando
 				isIdle = true;
 			}
 		}
-	} else if (isIdle) {
+	} else if (global.can_move && isIdle) {
 		// Verificar la dirección en la que queremos caminar (y vemos que solo una dirección ingrese).	
 		
 		hMove = keyRight - keyLeft;
@@ -142,6 +142,7 @@ if (isMoving) {
 	}
 }
 
+<<<<<<< Updated upstream
 if (isMoving){
 	audio_play_sound(sndPasos,10,false);
 	
@@ -149,3 +150,41 @@ if (isMoving){
 	audio_stop_sound(sndPasos);
 }
 	//show_debug_message(string(isMoving));
+=======
+#endregion
+
+var _x, _y;
+
+switch(faceDir) {
+	case 0:
+		_x = 1;
+		_y = 0;
+		break;
+	case 1:
+		_x = 0;
+		_y = -1;
+		break;
+	case 2:
+		_x = -1;
+		_y = 0;
+		break;
+	case 3:
+		_x = 0;
+		_y = 1;
+		break;
+}
+
+var tienda = instance_place(x + 8*_x, y + 8*_y + 8, objTienda);
+
+if (keyActivate && tienda != noone) {
+	tienda.active = true;
+	global.can_move = false;
+}
+
+if (keyBack && isIdle) {
+	if (!instance_exists(objMenu)) {
+		instance_create_layer(0, 0, "HUD", objMenu);
+		global.can_move = false;
+	}
+}
+>>>>>>> Stashed changes

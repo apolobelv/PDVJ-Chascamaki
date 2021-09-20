@@ -3,7 +3,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":240,"hview":176,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":240,"hview":176,"xport":0,"yport":0,"wport":982,"hport":720,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -13,7 +13,11 @@
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
   ],
   "layers": [
+<<<<<<< Updated upstream
     {"instances":[],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Text","tags":[],"resourceType":"GMRInstanceLayer",},
+=======
+    {"instances":[],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"HUD","tags":[],"resourceType":"GMRInstanceLayer",},
+>>>>>>> Stashed changes
     {"tilesetId":{"name":"tsTest","path":"tilesets/tsTest/tsTest.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":19,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -22,19 +26,32 @@
 2147483648,2147483648,2147483648,2147483648,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,0,3,3,3,3,2147483648,3,3,2147483648,2147483648,3,3,2147483648,2147483648,3,3,0,3,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,0,3,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,0,2147483648,3,2147483648,2147483648,2147483648,2147483648,
+<<<<<<< Updated upstream
 2147483648,2147483648,2147483648,0,3,2147483648,3,3,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,3,3,2147483648,3,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,3,2147483648,3,3,2147483648,3,3,3,3,3,3,3,2147483648,3,3,2147483648,3,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,3,2147483648,2147483648,2147483648,2147483648,3,3,3,3,3,3,3,2147483648,2147483648,2147483648,2147483648,3,3,3,3,3,
 2147483648,2147483648,2147483648,2147483648,3,2147483648,3,3,2147483648,3,3,3,3,3,3,3,2147483648,3,3,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,3,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,3,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,3,3,2147483648,3,3,3,3,3,
+=======
+2147483648,2147483648,2147483648,0,3,2147483648,3,3,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,0,2147483648,3,2147483648,2147483648,2147483648,2147483648,
+2147483648,2147483648,2147483648,2147483648,3,2147483648,0,0,0,3,3,0,0,0,3,3,0,0,0,2147483648,3,2147483648,2147483648,2147483648,2147483648,
+2147483648,2147483648,2147483648,2147483648,3,2147483648,2147483648,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,
+2147483648,2147483648,2147483648,2147483648,3,2147483648,3,3,2147483648,0,3,3,0,3,3,0,0,3,3,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
+2147483648,2147483648,2147483648,2147483648,3,2147483648,2147483648,2147483648,2147483648,0,2147483648,2147483648,0,0,0,0,0,0,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
+2147483648,2147483648,2147483648,2147483648,3,2147483648,2147483648,2147483648,2147483648,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,3,3,2147483648,3,3,3,3,3,
+>>>>>>> Stashed changes
 2147483648,2147483648,2147483648,2147483648,3,2147483648,3,3,2147483648,2147483648,3,3,2147483648,2147483648,3,3,2147483648,3,3,2147483648,3,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
+<<<<<<< Updated upstream
 ],},"visible":false,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Colliders","tags":[],"resourceType":"GMRTileLayer",},
+=======
+],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Colliders","tags":[],"resourceType":"GMRTileLayer",},
+>>>>>>> Stashed changes
     {"tilesetId":{"name":"TileSetCompleto","path":"tilesets/TileSetCompleto/TileSetCompleto.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":19,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,4170,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,4257,
@@ -60,6 +77,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"objGame","path":"objects/objGame/objGame.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_2EFD901A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_721668F1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"DepthSorter","path":"objects/DepthSorter/DepthSorter.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":0.0,"resourceVersion":"1.0","name":"inst_65076F91","tags":[],"resourceType":"GMRInstance",},
+<<<<<<< Updated upstream
         {"properties":[],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":49.0,"y":143.0,"resourceVersion":"1.0","name":"inst_50B025C1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"targetRoom","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"rmPlazaPrincipal","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
@@ -71,6 +89,11 @@
             {"propertyId":{"name":"xSpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"448","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"ySpawn","path":"objects/objDoor/objDoor.yy",},"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"value":"688","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"objDoor","path":"objects/objDoor/objDoor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":368.0,"y":176.0,"resourceVersion":"1.0","name":"inst_679CA553","tags":[],"resourceType":"GMRInstance",},
+=======
+        {"properties":[],"isDnd":false,"objectId":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":80.0,"y":144.0,"resourceVersion":"1.0","name":"inst_5352D4AA","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objNPC","path":"objects/objNPC/objNPC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":49.0,"y":143.0,"resourceVersion":"1.0","name":"inst_50B025C1","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objTienda","path":"objects/objTienda/objTienda.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":144.0,"resourceVersion":"1.0","name":"inst_14E93E5C","tags":[],"resourceType":"GMRInstance",},
+>>>>>>> Stashed changes
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSetCompleto","path":"tilesets/TileSetCompleto/TileSetCompleto.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":19,"TileSerialiseData":[
 6256,6257,6258,6259,6260,6261,6258,6259,6260,6261,5990,6250,6251,5990,6258,6259,6260,6261,6256,6257,6258,6259,6260,6261,2147483648,
@@ -124,8 +147,12 @@
     {"name":"inst_721668F1","path":"rooms/rmTienda/rmTienda.yy",},
     {"name":"inst_65076F91","path":"rooms/rmTienda/rmTienda.yy",},
     {"name":"inst_50B025C1","path":"rooms/rmTienda/rmTienda.yy",},
+<<<<<<< Updated upstream
     {"name":"inst_46E5327D","path":"rooms/rmTienda/rmTienda.yy",},
     {"name":"inst_679CA553","path":"rooms/rmTienda/rmTienda.yy",},
+=======
+    {"name":"inst_14E93E5C","path":"rooms/rmTienda/rmTienda.yy",},
+>>>>>>> Stashed changes
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
